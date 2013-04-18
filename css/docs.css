@@ -1,0 +1,18 @@
+#spacer {
+  padding-top: 60px;
+}
+
+.affix {
+  z-index: 900;
+}
+
+@media(max-width:767px) {
+  #spacer {
+    padding-top: 0;
+  }
+  .affix {
+    position: static;
+    width: auto;
+    top: 0;
+  }
+}
