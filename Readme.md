@@ -9,6 +9,8 @@ For individual flag icons adhering to ISO 3166-1 alpha-2 country codes, see the 
 
 Much love to [FAMFAMFAM](http://www.famfamfam.com/lab/icons/flags/) for these awesome icons.
 
+This module was made by the folks at [Prove](https://getprove.com).
+
 
 ## Index
 
