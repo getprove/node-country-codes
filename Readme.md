@@ -1,7 +1,7 @@
 
 # country-codes
 
-List of countries with their respective ISO country code and telephone calling code.
+List of 199 countries with their respective ISO country code and telephone calling code.
 
 For a sprite of the flag icons in PNG format, reference to "flags.less" and "flags.png" in the root folder of this repo.
 
@@ -10,6 +10,8 @@ For individual flag icons adhering to ISO 3166-1 alpha-2 country codes, see the 
 Much love to [FAMFAMFAM](http://www.famfamfam.com/lab/icons/flags/) for these awesome icons.
 
 This module was made by the folks at [Prove](https://getprove.com).
+
+Feel free to contribute and send a pull request.
 
 
 ## Index
