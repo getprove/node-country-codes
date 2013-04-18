@@ -7,7 +7,7 @@ For a sprite of the flag icons in PNG format, reference to "flags.less" and "fla
 
 For individual flag icons adhering to ISO 3166-1 alpha-2 country codes, see the "icons" folder of this repo.
 
-Much love to [FAMFAMFAM](http://www.famfamfam.com/lab/icons/flags/) and <mjames@gmail.com> for these awesome icons.
+Much love to [FAMFAMFAM](http://www.famfamfam.com/lab/icons/flags/) for these awesome icons.
 
 
 ## Index
