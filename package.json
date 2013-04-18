@@ -1,0 +1,28 @@
+{
+  "name": "country-codes",
+  "version": "0.0.1",
+  "description": "List of countries with their respective ISO country code and telephone country code.",
+  "main": "index.js",
+  "contributors": [
+    {
+      "name": "Nick Baugh",
+      "email": "niftylettuce@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getprove/node-countries"
+  },
+  "keywords": [
+    "countries",
+    "country",
+    "code",
+    "codes",
+    "iso",
+    "telephone",
+    "countrys",
+    "list"
+  ],
+  "author": "Nick Baugh <niftylettuce@gmail.com>",
+  "license": "MIT"
+}
