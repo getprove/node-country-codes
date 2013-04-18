@@ -14,9 +14,9 @@ This module was made by the folks at [Prove](https://getprove.com).
 
 ## Index
 
-* Example Usage
-* Contributors
-* License
+* [Example Usage](#example-usage)
+* [Contributors](#contributors)
+* [License](#license)
 
 
 ## Example Usage
