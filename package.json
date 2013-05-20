@@ -1,7 +1,7 @@
 {
   "name": "country-codes",
-  "version": "0.0.1",
-  "description": "List of countries with their respective ISO country code and telephone country code.",
+  "version": "0.0.2",
+  "description": "List of countries with their respective ISO country code and telephone country code(s).",
   "main": "index.js",
   "contributors": [
     {
@@ -24,5 +24,8 @@
     "list"
   ],
   "author": "Nick Baugh <niftylettuce@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "country-data": "git://github.com/getprove/country-data"
+  }
 }
