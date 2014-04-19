@@ -1,6 +1,8 @@
 
 # country-codes
 
+> **UPDATE**: This module is deprecated.  Please use the `country-data` package instead of this `country-codes` module.  It is more well-maintained and the original author of this repository/package has decided to focus on that module instead.  Here is a link to it: <https://github.com/OpenBookPrices/country-data/>.  If you need help with a migration, please file an issue on that repository and tag @niftylettuce.
+
 List of **257** countries with their respective ISO2 country code and telephone calling codes.
 
 For a sprite of the flag icons in PNG format, reference to "flags.less" and "flags.png" in the root folder of this repo.

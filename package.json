@@ -1,6 +1,6 @@
 {
   "name": "country-codes",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "List of countries with their respective ISO country code and telephone country code(s).",
   "main": "index.js",
   "contributors": [
