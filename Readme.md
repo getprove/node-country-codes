@@ -32,7 +32,7 @@ npm install country-codes
 Input:
 
 ```js
-var countryCodes = require('countryCodes')
+var countryCodes = require('country-codes')
 console.log(countryCodes)
 ```
 
